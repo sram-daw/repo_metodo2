@@ -7,3 +7,5 @@
 ### otra modificacion
 
 ### clase huelga
+
+modificación 27/9/22
